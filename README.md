@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankmehta19032003&label=Profile%20views&color=0e75b6&style=flat" alt="mayankmehta19032003" /> </p>
 
-- 🌱 I’m currently learning **Redux.**
+- 🌱 I’m currently learning **MongoDB.**
 
 - 💬 Ask me about **frontend Development.**
 
