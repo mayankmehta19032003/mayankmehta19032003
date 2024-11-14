@@ -1,6 +1,6 @@
 <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" height="300px"/>
 <h1 align="center">Hi 👋, I'm Mayank Mehta</h1>
-<h3 align="center">A passionate Web developer from India.</h3>
+<h3 align="center">A passionate Frontend developer from India.</h3>
 <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"  width="400px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankmehta19032003&label=Profile%20views&color=0e75b6&style=flat" alt="mayankmehta19032003" /> </p>
