@@ -1,20 +1,20 @@
 <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" height="300px"/>
 <h1 align="center">Hi 👋, I'm Mayank Mehta</h1>
-<h3 align="center">A passionate Frontend developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"  width="400px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankmehta19032003&label=Profile%20views&color=0e75b6&style=flat" alt="mayankmehta19032003" /> </p>
 
-- 🌱 I’m currently learning **MongoDB.**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **frontend Development.**
+- 💬 Ask me about **Full Stack Development.**
 
 - 📫 How to reach me **mayankmehta880@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mayank19032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mayank19032003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/mayank-mehta880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mayank-mehta880" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayank-mehta880/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mayank-mehta880" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/nxurqed3fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nxurqed3fb" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mayankme358x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mayankme358x" height="30" width="40" /></a>
 </p>
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankmehta19032003&show_icons=true&locale=en" alt="mayankmehta19032003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankmehta19032003&" alt="mayankmehta19032003" /></p>
